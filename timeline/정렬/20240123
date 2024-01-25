@@ -1,0 +1,36 @@
+# 정렬
+
+## Bubble Sort
+
+> 인접한 요소끼리의 비교를 통해 정렬하는 방식
+
+## Select Sort
+
+> 대상중 가장 작거나 큰 값과 정렬되지 않은 값들 중 맨 앞의 값을 바꾸는 방식
+
+## Insert Sort
+
+> 앞에서 부터 정렬된 부분과 정렬해야할 요소를 비교하여 적절한 위치에 삽입하는 방식.
+
+## Quick Sort
+
+> pivot을 기준으로 pivot보다 큰 것 pivot 보다 작은 것을 굫환하며 정렬한다.
+
+## Merge Sort
+
+> 가장 작은 단위 까지 devide를 한다음 정렬과 병합을 동시에 하는 방식.
+
+- Quick Sort와 Merge Sort는 구현 방식이 조금 닮은 면이 있다.
+
+1. 둘 다 재귀를 base로 한다.
+2. 둘 다 투 포인터를 이용해 정렬을 할 필요가 있다.
+
+## 관련 문제
+
+- [백준 2750번](https://github.com/jeongwoo903/BaekjoonHub/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2750.%E2%80%85%EC%88%98%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
+- [백준 1377번](https://github.com/jeongwoo903/BaekjoonHub/tree/main/%EB%B0%B1%EC%A4%80/Gold/1377.%E2%80%85%EB%B2%84%EB%B8%94%E2%80%85%EC%86%8C%ED%8A%B8)
+- [백준 1427번](https://github.com/jeongwoo903/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Silver/1427.%E2%80%85%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C/README.md)
+- [백준 11399번](https://github.com/jeongwoo903/BaekjoonHub/tree/main/%EB%B0%B1%EC%A4%80/Silver/11399.%E2%80%85ATM)
+- [백준 30868번](https://github.com/jeongwoo903/BaekjoonHub/tree/main/%EB%B0%B1%EC%A4%80/Bronze/30868.%E2%80%85%EA%B0%9C%ED%91%9C)
+- [백준 11004번](https://github.com/jeongwoo903/BaekjoonHub/tree/main/%EB%B0%B1%EC%A4%80/Silver/11004.%E2%80%85K%EB%B2%88%EC%A7%B8%E2%80%85%EC%88%98)
+- [백준 2751번](https://github.com/jeongwoo903/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Silver/2751.%E2%80%85%EC%88%98%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%E2%80%852/README.md)
